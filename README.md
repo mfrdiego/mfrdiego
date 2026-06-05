@@ -3,8 +3,7 @@
 
 Developer
 
-System analysis and development student
-4/5
+System analysis and development 
 I'm looking for opportunity!
 
 </div>
@@ -15,8 +14,7 @@ I'm looking for opportunity!
   <img align="center"  height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />-
   <img align="center"  height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />-
   <img align="center"  height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />-
-  <img align="center"  height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-</div>
+
 
 ##
 
