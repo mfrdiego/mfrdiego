@@ -4,6 +4,7 @@
 Developer
 
 System analysis and development 
+Currently programming in telemetry systems
 I'm looking for opportunity!
 
 </div>
